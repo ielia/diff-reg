@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Ansi]
+"Name"="café"
+"Num"=dword:0000000a
